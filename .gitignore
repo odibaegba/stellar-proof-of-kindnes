@@ -1,0 +1,8 @@
+target/
+Cargo.lock
+node_modules/
+.next/
+.env
+.env.local
+*.wasm
+.DS_Store
